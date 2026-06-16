@@ -1,0 +1,13 @@
+venv/
+venv311/
+
+__pycache__/
+*.pyc
+
+.env
+
+*.pdf
+
+.vscode/
+.idea/
+config.py
